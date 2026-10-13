@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke-linecap="square">
+  <!-- NESA mark: one end of a pitch, top-down. Halfway line + centre-circle arc at the top,
+       penalty box + arc on the goal line, ball marker on the penalty spot.
+       Flat, two colours, no gradients: safe to embroider or screen-print. -->
+  <rect width="48" height="48" rx="6" fill="#152B3C"/>
+  <path d="M7 7H41V41H7Z" stroke="#F4F0E7" stroke-width="2.4"/>
+  <path d="M18 7A6 6 0 0 0 30 7" stroke="#F4F0E7" stroke-width="2.4"/>
+  <path d="M14 41V27H34V41" stroke="#F4F0E7" stroke-width="2.4"/>
+  <path d="M19.5 27A5 5 0 0 1 28.5 27" stroke="#F4F0E7" stroke-width="2.4"/>
+  <circle cx="24" cy="35" r="2.4" fill="#B9D84B"/>
+</svg>
